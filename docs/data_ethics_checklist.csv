@@ -1,10 +1,9 @@
 no,aspek,pertanyaan,jawaban,bukti
-1,Sumber diizinkan,Hanya OSM/Overpass dan BPS/Satu Data Bali?,Ya,docs/provenance.json (endpoint overpass-api.de); docs/perbandingan_bps.csv
-2,Sumber dilarang,"Tidak menyentuh Booking, Agoda, Traveloka, tiket.com, Airbnb, Tripadvisor, Google Maps?",Ya,Tidak ada kode request ke domain tersebut di notebook; verifikasi sampel dilakukan manual
-3,Lisensi dan atribusi,Atribusi ODbL dicantumkan di README dan laporan?,Ya,README.md bagian Atribusi; reports/laporan_akomodasi_kintamani.pdf
-4,Batas pemakaian,"Query 1 kali, ada retry, jeda, timeout, User-Agent?",Ya,provenance.json (waktu akuisisi tunggal); notebook fungsi ambil_overpass
-5,Minimisasi data,"Telepon, email, media sosial tidak diambil?",Ya,Kolom data/interim/akomodasi_kintamani.csv tidak memuat kontak (lihat data_dictionary.csv)
-6,Integritas data mentah,data/raw tidak diubah?,Ya,MD5 di docs/provenance.json cocok dengan berkas mentah (diperiksa notebook)
-7,Transparansi pembersihan,Tidak ada penghapusan diam-diam?,Ya,docs/catatan_hari4.md: 32 elemen mentah menjadi 32 baris
-8,Provenance,"Lengkap: endpoint, query, UTC, jumlah, berkas+MD5, lisensi, identitas?",Ya,docs/provenance.json
-9,Keterbatasan data,Ketidaklengkapan OSM diakui?,Ya,reports/laporan_akomodasi_kintamani.pdf bagian refleksi
+1,Sumber diizinkan,Apakah hanya memakai OSM/Overpass dan BPS/Satu Data Bali?,Rencana: ya,"Draf, bukti diisi hari 6"
+2,Sumber dilarang,"Apakah tidak menyentuh Booking, Agoda, Traveloka, tiket.com, Airbnb, Tripadvisor, Google Maps?",Rencana: ya,Draf
+3,Lisensi,Apakah atribusi ODbL '© OpenStreetMap contributors' dicantumkan di README dan laporan?,Rencana: ya,Draf
+4,Batas pemakaian,"Apakah query dijalankan 1-2 kali, ada retry dengan jeda, ada User-Agent?",Rencana: ya,Draf
+5,Minimisasi data,"Apakah telepon, email, dan media sosial tidak diambil?",Rencana: ya,Draf
+6,Integritas data mentah,Apakah data/raw tidak diubah setelah disimpan?,Rencana: ya,Draf
+7,Transparansi pembersihan,Apakah setiap penghapusan/perubahan data dicatat?,Rencana: ya,Draf
+8,Provenance,"Apakah provenance.json memuat endpoint, query, waktu UTC, hash MD5, lisensi, identitas?",Rencana: ya,Draf

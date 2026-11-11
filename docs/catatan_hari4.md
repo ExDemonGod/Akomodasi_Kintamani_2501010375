@@ -32,5 +32,4 @@
 - Tag apartment termasuk dalam query tetapi tidak menghasilkan data.
 - Satu-satunya elemen bertipe way (way/1181397894) adalah motel tanpa nama,
   di lat -8,223372 lon 115,254582 (titik paling barat, dekat Catur).
-  Hasil verifikasi di OSM: ISI (misalnya: bangunan terlihat di tepi jalan /
-  tidak ada tag tambahan / lokasi wajar atau meragukan).
+  Hasil verifikasi di OSM: Di sisi utara Jalan Raya Pelaga, tepat di samping SPBU Pertamina

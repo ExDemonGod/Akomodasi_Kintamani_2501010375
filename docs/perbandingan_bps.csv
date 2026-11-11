@@ -1,0 +1,2 @@
+wilayah,jumlah_osm,jumlah_bps,tahun_bps,kelengkapan_persen,sumber_bps,catatan
+Kecamatan Kintamani,32,118,2023,27.1,"BPS Kabupaten Bangli, Kecamatan Kintamani Dalam Angka 2024, Tabel 6.1.1 (https://banglikab.bps.go.id/id/publication/2024/09/26/3313f5ac27a3df4ff0ecbd03/kecamatan-kintamani-dalam-angka-2024.html)","BPS mencatat 118 sarana akomodasi (hotel 19, penginapan 99; data 2023). Kategori BPS tidak identik dengan tag OSM, dan selisih tahun data (2023) dengan akuisisi OSM (2026) dapat memengaruhi perbandingan."

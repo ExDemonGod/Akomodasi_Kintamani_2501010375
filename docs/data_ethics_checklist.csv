@@ -1,0 +1,9 @@
+no,aspek,pertanyaan,jawaban,bukti
+1,Sumber diizinkan,Apakah hanya memakai OSM/Overpass dan BPS/Satu Data Bali?,Rencana: ya,"Draf, bukti diisi hari 6"
+2,Sumber dilarang,"Apakah tidak menyentuh Booking, Agoda, Traveloka, tiket.com, Airbnb, Tripadvisor, Google Maps?",Rencana: ya,Draf
+3,Lisensi,Apakah atribusi ODbL '© OpenStreetMap contributors' dicantumkan di README dan laporan?,Rencana: ya,Draf
+4,Batas pemakaian,"Apakah query dijalankan 1-2 kali, ada retry dengan jeda, ada User-Agent?",Rencana: ya,Draf
+5,Minimisasi data,"Apakah telepon, email, dan media sosial tidak diambil?",Rencana: ya,Draf
+6,Integritas data mentah,Apakah data/raw tidak diubah setelah disimpan?,Rencana: ya,Draf
+7,Transparansi pembersihan,Apakah setiap penghapusan/perubahan data dicatat?,Rencana: ya,Draf
+8,Provenance,"Apakah provenance.json memuat endpoint, query, waktu UTC, hash MD5, lisensi, identitas?",Rencana: ya,Draf

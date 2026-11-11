@@ -6,7 +6,7 @@ Tugas praktik BIFP-243 Akuisisi dan Manajemen Data (INSTIKI).
 - NIM: 2501010375
 
 ## Tujuan
-(diisi hari 6)
+
 
 ## Sumber data
 - OpenStreetMap via Overpass API

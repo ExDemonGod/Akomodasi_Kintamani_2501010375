@@ -2,8 +2,8 @@
 
 Tugas praktik BIFP-243 Akuisisi dan Manajemen Data (INSTIKI).
 
-Nama: Si Ngurah Rai Krisna Pranajaya
-NIM: 2501010375
+- Nama: Si Ngurah Rai Krisna Pranajaya
+- NIM: 2501010375
 
 ## Tujuan
 (diisi hari 6)
@@ -16,5 +16,5 @@ NIM: 2501010375
 © OpenStreetMap contributors (lisensi ODbL).
 
 ## Status
-Hari 1: struktur repository dan draf Data Ethics Checklist.
-Hari 2: query final, bukti admin_level, peta, catatan keputusan.
+- Hari 1: struktur repository dan draf Data Ethics Checklist.
+- Hari 2: query final, bukti admin_level, peta, catatan keputusan.
